@@ -80,10 +80,9 @@ says which release of server and webapp it runs.
 
 ## Code of conduct
 
-Be respectful and constructive. Critique the code, not the person; assume good
-intent; help newcomers. Harassment or abuse of any kind is not tolerated, and
-maintainers may remove comments, close issues or block accounts that cross
-that line.
+Everyone taking part in EchoPhase follows the
+[Code of Conduct](CODE_OF_CONDUCT.md) (Contributor Covenant 2.1). Report
+unacceptable behaviour as it describes.
 
 ## Questions
 
