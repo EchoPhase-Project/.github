@@ -18,7 +18,7 @@
 
 - [ ] Works with the keyboard, focus is visible, fields have labels.
 - [ ] Checked in the light and the dark theme.
-- [ ] New strings are in every language file.
+- [ ] New strings are in the English locale files, with an English fallback in the code.
 - [ ] Animations respect `prefers-reduced-motion`.
 
 ## Notes
